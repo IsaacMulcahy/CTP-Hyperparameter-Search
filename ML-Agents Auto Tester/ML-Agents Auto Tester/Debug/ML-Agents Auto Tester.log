@@ -1,0 +1,5 @@
+﻿  ML-Agents Auto Tester.cpp
+c:\users\isaac\source\repos\ml-agents auto tester\ml-agents auto tester\ml-agents auto tester.cpp(25): warning C4326: return type of 'wmain' should be 'int' instead of 'void'
+c:\users\isaac\source\repos\ml-agents auto tester\ml-agents auto tester\ml-agents auto tester.cpp(41): error C2039: 'to_wstring': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(20): note: see declaration of 'std'
+c:\users\isaac\source\repos\ml-agents auto tester\ml-agents auto tester\ml-agents auto tester.cpp(41): error C3861: 'to_wstring': identifier not found

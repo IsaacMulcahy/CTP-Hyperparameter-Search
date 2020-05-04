@@ -1,0 +1,4 @@
+﻿  ML-Agents Auto Tester.cpp
+C:\Users\isaac\source\repos\ML-Agents Auto Tester\ML-Agents Auto Tester\ML-Agents Auto Tester.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\isaac\source\repos\ML-Agents Auto Tester\ML-Agents Auto Tester\ML-Agents Auto Tester.cpp(52,10): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  ML-Agents Auto Tester.vcxproj -> C:\Users\isaac\source\repos\ML-Agents Auto Tester\x64\Debug\ML-Agents Auto Tester.exe
